@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PhanHoangTan_21034591_SM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PhanHoangTan_21034591_SM_jar</output-path>
+    <root id="archive" name="PhanHoangTan_21034591_SM.jar">
+      <element id="module-output" name="PhanHoangTan_21034591_SM" />
+    </root>
+  </artifact>
+</component>
